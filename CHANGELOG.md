@@ -1,6 +1,7 @@
 ## v1.2.1 (_2020-03-05_)
 
 * Add persuasion skill
+* Add character sheet
 
 ## v1.2.0 (_2017-08-15_)
 
