@@ -20,6 +20,15 @@ Cette œuvre est mise à disposition sous licence Attribution-ShareAlike 4.0 Int
 
 ![image](img/cc-by-sa.png)
 
-## Build
+### Clone
+Le projet utilise un sous-module pour importer le style.
 
-    latexmk
+```
+git clone --recursive https://github.com/star-war-redemption/jdrp-livre-de-base.git
+```
+
+### Build
+
+```
+latexmk -f -r swr-class/latexmkrc 
+```
