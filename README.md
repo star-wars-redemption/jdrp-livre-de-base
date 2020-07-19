@@ -24,11 +24,11 @@ Cette œuvre est mise à disposition sous licence Attribution-ShareAlike 4.0 Int
 Le projet utilise un sous-module pour importer le style.
 
 ```
-git clone --recursive https://github.com/star-war-redemption/jdrp-livre-de-base.git
+git clone --recursive https://github.com/star-wars-redemption/jdrp-livre-de-base.git
 ```
 
 ### Build
 
 ```
-latexmk -f -r swr-class/latexmkrc 
+latexmk -pvc
 ```
